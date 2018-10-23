@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.modal-body {
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	bottom: 100%;
+	left: 50%;
+	background: #ffffff;
+	transform: translate(-50%, 130%);
+}
+
+.hide {
+	display: none;
+}
